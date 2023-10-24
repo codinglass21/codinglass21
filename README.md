@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps and Machine Learning
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on DevOps
-- 📫 How to reach me www.linkedin.com/in/mansi-singh-4732aa265
+- 📫 How to reach me www.linkedin.com/in/mansi-singh21
 -  Instagram-https://instagram.com/shmansi.21?igshid=ZDc4ODBmNjlmNQ==
 
 <!---
