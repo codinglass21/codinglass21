@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codinglass21
+- 👋 Hi, I’m Mansi 
 - 👀 I’m interested in Android Development and Machine Learning
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ML
